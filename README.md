@@ -5,8 +5,11 @@
 - Google Chrome browser
 - Node.js
 - Yarn
+
 *If you don't have google Chrome installed, please get it from here*
+
 *If you don't have Node.js/npm installed, please get it from: https://nodejs.org/en/download/*
+
 *If you don't have Yarn installed, please get it from: https://classic.yarnpkg.com/lang/en/docs/install/*
 
 # Express way:
