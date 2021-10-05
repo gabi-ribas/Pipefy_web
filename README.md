@@ -1,10 +1,15 @@
 # Read me
 **This document describes how to install the required components and run the automated web test case**
 
+# Requirements:
+- Having the Google Chrome browser installed
+- Having Node.js installed
+*If you don't have Node.js/npm installed, please get it from: https://nodejs.org/en/download/*
+
 # Express way:
 
  - Clone this repository
- - From this repository's root source, run the `yarn install` command on the terminal
+ - From this repository's root source, run the `npm install` command on the terminal
  - From this repository's root source, run  the`npm test` command on the terminal
  
 # If the express way doesn't work, you may try the following steps:
@@ -15,8 +20,6 @@
 - For this project, it's recommended that the installation may be done via npm
 	- Make sure you run `npm init` (as recommended in the installation instructions) and have your package.json file created
 	- Make sure you run Cypress for the first time to check if it's properly installed (run instructions are also available in the link above)
-
-*If you don't have Node.js/npm installed, please get it from: https://nodejs.org/en/download/*
 
 ## Open the repository in a JavaScript supporting IDE of you liking
 - In case you don't have one installed, you may download Visual Studio Code from here: https://code.visualstudio.com/
