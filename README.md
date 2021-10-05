@@ -6,7 +6,7 @@
 - Node.js
 - Yarn
 
-*If you don't have google Chrome installed, please get it from here*
+*If you don't have google Chrome installed, please get it from: https://www.google.pt/intl/pt-PT/chrome/?brand=ISCS&gclid=CjwKCAjw7--KBhAMEiwAxfpkWLcwSxQ2Wgv-QtGVPIVLPNjIumU_XWH49-_9OXxyShrLplvup1IknxoCPoEQAvD_BwE&gclsrc=aw.ds*
 
 *If you don't have Node.js/npm installed, please get it from: https://nodejs.org/en/download/*
 
