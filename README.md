@@ -33,8 +33,8 @@
 - Clone this git repository to your local files (If you haven't already while trying the express way)
 
 ## Copy the test and fixture files to the cypress repository
-- Copy the "[repository where you cloned this git repository]/cypress/integration/pipefy_test" folder to the `[repository where you installed cypress]/cypress/integration` directory
-- Copy the "[repository where you cloned this git repository]cypress/fixtures/myfixture.jpg" file to the `[repository where you installed cypress]cypress/fixtures` directory
+- Copy the `repository where you cloned this git repository]/cypress/integration/pipefy_test` folder to the `[repository where you installed cypress]/cypress/integration` directory
+- Copy the `[repository where you cloned this git repository]cypress/fixtures/myfixture.jpg` file to the `[repository where you installed cypress]cypress/fixtures` directory
 
 ## Run the test
 - Run Cypress following the instructions available on:  https://docs.cypress.io/guides/getting-started/installing-cypress#System-requirements
