@@ -2,14 +2,17 @@
 **This document describes how to install the required components and run the automated web test case**
 
 # Requirements:
-- Having the Google Chrome browser installed
-- Having Node.js installed
+- Google Chrome browser
+- Node.js
+- Yarn
+*If you don't have google Chrome installed, please get it from here*
 *If you don't have Node.js/npm installed, please get it from: https://nodejs.org/en/download/*
+*If you don't have Yarn installed, please get it from: https://classic.yarnpkg.com/lang/en/docs/install/*
 
 # Express way:
 
  - Clone this repository
- - From this repository's root source, run the `npm install` command on the terminal
+ - From this repository's root source, run the `yarn install` command on the terminal
  - From this repository's root source, run  the`npm test` command on the terminal
  
 # If the express way doesn't work, you may try the following steps:
